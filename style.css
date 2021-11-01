@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Palette+Mosaic&display=swap');
+body{
+    background-image: url("https://media.istockphoto.com/photos/quote-words-have-power-made-out-of-wooden-letters-on-bright-yellow-picture-id1271673071?b=1&k=20&m=1271673071&s=170667a&w=0&h=vSZhtZ39iWqNqQ6GrZOjT4OppQsrMqSYMfV7E3hOg9g=");
+    background-repeat: no-repeat, repeat;  
+    background-position: center;
+    background-size: cover;
+    margin: 0;
+    padding: 0;
+    background-color: #fdb400;
+    width: 100%;
+   
+    background-repeat: no-repeat, repeat;  
+    background-position: center;
+    background-size: cover;
+}
+.form{
+    height: 750px;
+}
+.search-area{
+    text-align: center;
+    color:
+    #dc0000;
+   }
+ 
+   .words-container{
+    padding:20px;
+   }
+   .searched-word{
+    background-image: url("https://t4.ftcdn.net/jpg/01/96/04/19/240_F_196041942_PFPQoBbxzcqCDAmwhJ2qukr2frFWKWKZ.jpg");
+   
+    background-repeat: no-repeat, repeat;  
+    background-position: center;
+  font-family: 'Bebas Neue', cursive;
+ color: white;
+  border-radius:10px;
+  text-align:center;
+  border: 1px solid black;
+  
+}
+.partofspeech1{
+    background-image: url("https://t4.ftcdn.net/jpg/01/96/04/19/240_F_196041942_PFPQoBbxzcqCDAmwhJ2qukr2frFWKWKZ.jpg");
+    background-repeat: no-repeat, repeat;  
+    background-position: center;
+    background-size: cover;
+    background-color: #ffe473;
+ color:whitesmoke;
+ font-size: larger;
+ font-weight: bolder;
+  border-radius:10px;
+  text-align:center;
+  border: 1px solid black;
+  height:100%;
+}
